@@ -64,9 +64,9 @@ const HeroSection = () => {
           {/* Main Heading */}
           <div className="space-y-4">
             <h1 className="font-cinzel text-4xl lg:text-6xl font-bold text-ivory leading-tight">
-              Sâm Chạy Bộ
+              SÂM CHẠY BỘ
               <span className="block text-gradient-gold">
-                Tinh Hoa Sức Sống
+                TINH HOA SỨC SỐNG
               </span>
             </h1>
             <p className="text-ivory/80 text-lg lg:text-xl font-montserrat leading-relaxed max-w-lg">

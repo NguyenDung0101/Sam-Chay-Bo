@@ -40,7 +40,7 @@ const ProductSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16 animate-fade-up">
           <h2 className="font-cinzel text-4xl lg:text-5xl font-bold text-primary mb-6">
-            Sâm Chạy Bộ – TINH TUÝ TỪ THIÊN NHIÊN
+            SÂM CHẠY BỘ – TINH TUÝ TỪ THIÊN NHIÊN
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-transparent via-secondary to-transparent mx-auto"></div>
         </div>
@@ -106,7 +106,7 @@ const ProductSection = () => {
             <div className="space-y-6">
               <div className="space-y-4">
                 <h3 className="font-cinzel text-2xl font-semibold text-primary">
-                  Nguồn gốc tinh hoa
+                  NGUỒN GỐC TINH HOA
                 </h3>
                 <p className="font-montserrat text-muted-foreground leading-relaxed">
                   Những rễ sâm quý hiếm được chọn lọc từ vùng núi cao Việt Nam,
@@ -117,7 +117,7 @@ const ProductSection = () => {
 
               <div className="space-y-4">
                 <h3 className="font-cinzel text-2xl font-semibold text-primary">
-                  Công Nghệ Hiện Đại
+                  CÔNG NGHỆ HIỆN ĐẠI
                 </h3>
                 <p className="font-montserrat text-muted-foreground leading-relaxed">
                   Ứng dụng khoa học hiện đại để chiết xuất tinh chất sâm, tối ưu
@@ -128,7 +128,7 @@ const ProductSection = () => {
 
               <div className="space-y-4">
                 <h3 className="font-cinzel text-2xl font-semibold text-primary">
-                  Thiết Kế Sang Trọng
+                  THIẾT KẾ SANG TRỌNG
                 </h3>
                 <p className="font-montserrat text-muted-foreground leading-relaxed">
                   Bao bì lấy cảm hứng từ nghệ thuật truyền thống, kết hợp cùng
@@ -139,7 +139,7 @@ const ProductSection = () => {
 
               <div className="space-y-4">
                 <h3 className="font-cinzel text-2xl font-semibold text-primary">
-                  Cam Kết Chất Lượng
+                  CAM KẾT CHẤT LƯỢNG
                 </h3>
                 <p className="font-montserrat text-muted-foreground leading-relaxed">
                   100% tự nhiên, không phụ gia, không chất bảo quản. Sản phẩm

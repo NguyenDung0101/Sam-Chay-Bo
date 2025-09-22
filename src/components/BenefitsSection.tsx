@@ -6,7 +6,7 @@ const BenefitsSection = () => {
           <path d="M13 9V3.5L18 2L19 6L13 9ZM6 7H3V11H6L11 6L6 7ZM11 18L6 17V21H3V17H1V13H6L11 18ZM13 12L18 17L19 22L13 20.5V12Z" />
         </svg>
       ),
-      title: "Tăng Cường Năng Lượng",
+      title: "TĂNG CƯỜNG NĂNG LƯỢNG",
       description:
         "Tiếp sức bền vững, giúp cơ thể luôn tràn đầy năng lượng để bứt phá trong thể thao và cuộc sống.",
     },
@@ -16,7 +16,7 @@ const BenefitsSection = () => {
           <path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM12 8C13.1 8 14 8.9 14 10V22H10V10C10 8.9 10.9 8 12 8Z" />
         </svg>
       ),
-      title: "Hỗ Trợ Sức Bền",
+      title: "HỖ TRỢ SỨC BỀN",
       description:
         "Tăng sức chịu đựng, giảm mệt mỏi trong các bài tập cường độ cao hay vận động kéo dài",
     },
@@ -26,7 +26,7 @@ const BenefitsSection = () => {
           <path d="M19 14H15L13.5 15.5L11.91 13.91L10.5 15.5L12 17L19 10V14ZM12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2Z" />
         </svg>
       ),
-      title: "Phục Hồi Nhanh Chóng",
+      title: "PHỤC HỒI NHANH CHÓNG",
       description:
         "Xoa dịu đau nhức, rút ngắn thời gian hồi phục cơ bắp, sẵn sàng quay lại tập luyện.",
     },
@@ -36,7 +36,7 @@ const BenefitsSection = () => {
           <path d="M12 2L13.09 8.26L22 9L17 14L18.18 21L12 17.77L5.82 21L7 14L2 9L8.91 8.26L12 2Z" />
         </svg>
       ),
-      title: "Cân Bằng Cơ Thể",
+      title: "CÂN BẰNG CƠ THỂ",
       description:
         "Củng cố hệ miễn dịch, ổn định huyết áp và nâng cao sức khỏe toàn diện.",
     },
@@ -46,7 +46,7 @@ const BenefitsSection = () => {
           <path d="M12 3C8.24 3 5.5 5.88 5.5 9.5C5.5 10.73 5.89 11.86 6.55 12.8L12 22L17.45 12.8C18.11 11.86 18.5 10.73 18.5 9.5C18.5 5.88 15.76 3 12 3ZM12 7C13.38 7 14.5 8.12 14.5 9.5S13.38 12 12 12S9.5 10.88 9.5 9.5S10.62 7 12 7Z" />
         </svg>
       ),
-      title: "Tăng Tập Trung",
+      title: "TĂNG TẬP TRUNG",
       description:
         "Giữ tinh thần tỉnh táo, tăng khả năng tập trung để học tập, làm việc và luyện tập hiệu quả.",
     },
@@ -56,7 +56,7 @@ const BenefitsSection = () => {
           <path d="M17.6 11.48L19.44 8.3A7.96 7.96 0 0 0 12 4A7.96 7.96 0 0 0 4.56 8.3L6.4 11.48C6.72 12.08 7.34 12.5 8 12.5H8.76L10.05 21.76C10.13 22.31 10.6 22.73 11.16 22.73H12.84C13.4 22.73 13.87 22.31 13.95 21.76L15.24 12.5H16C16.66 12.5 17.28 12.08 17.6 11.48Z" />
         </svg>
       ),
-      title: "Tự Nhiên & An Toàn",
+      title: "TỰ NHIÊN & AN TOÀN",
       description:
         "Chiết xuất hoàn toàn từ thảo dược thiên nhiên, không chất bảo quản – an toàn cho mọi đối tượng.",
     },
@@ -90,7 +90,7 @@ const BenefitsSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16 animate-fade-up">
           <h2 className="font-cinzel text-4xl lg:text-5xl font-bold text-ivory mb-6">
-            Sức Mạnh Từ Sâm Chạy Bộ
+            SỨC MẠNH TỪ SÂM CHẠY BỘ
           </h2>
           <div className="w-24 h-1 bg-gradient-to-r from-transparent via-secondary to-transparent mx-auto"></div>
         </div>

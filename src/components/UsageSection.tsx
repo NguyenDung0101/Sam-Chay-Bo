@@ -11,7 +11,7 @@ const UsageSection = () => {
   const steps = [
     {
       number: "01",
-      title: "Liều Lượng",
+      title: "LIỀU LƯỢNG",
       description:
         "Uống 1–2 viên/ngày, trước khi chạy bộ hoặc tập luyện. Thời điểm tốt nhất là buổi sáng để tối đa hóa năng lượng.",
       icon: (
@@ -22,7 +22,7 @@ const UsageSection = () => {
     },
     {
       number: "02",
-      title: "Cách Dùng",
+      title: "CÁCH DÙNG",
       description:
         "Dùng cùng nước ấm để tăng khả năng hấp thu. Tránh dùng chung với cà phê hoặc đồ uống có cồn.",
       icon: (
@@ -33,7 +33,7 @@ const UsageSection = () => {
     },
     {
       number: "03",
-      title: "Thời Điểm",
+      title: "THỜI ĐIỂM",
       description:
         "Uống trước hoạt động thể chất hoặc công việc khoảng 30 phút để đạt hiệu quả tập trung và bền bỉ cao nhất.",
       icon: (
@@ -44,7 +44,7 @@ const UsageSection = () => {
     },
     {
       number: "04",
-      title: "Lưu Ý",
+      title: "LƯU Ý",
       description:
         "Bảo quản nơi khô ráo, tránh nắng gắt. Tham khảo ý kiến bác sĩ nếu đang điều trị bệnh lý đặc biệt hoặc dùng thuốc.",
       icon: (
@@ -96,7 +96,7 @@ const UsageSection = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="text-center mb-16 animate-fade-up">
           <h2 className="font-cinzel text-4xl lg:text-5xl font-bold text-primary mb-6">
-            Cách Sử Dụng Sâm Chạy Bộ
+            CÁCH SỬ DỤNG SÂM CHẠY BỘ
           </h2>
           <p className="font-montserrat text-lg text-muted-foreground max-w-2xl mx-auto">
             Hướng dẫn chi tiết để tận dụng tối đa hiệu quả của sản phẩm

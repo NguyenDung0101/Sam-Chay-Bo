@@ -98,5 +98,5 @@ Dự án được phát triển bởi đội ngũ **Sâm Chạy Bộ** và cấp
 
 ---
 
-**Sâm Chạy Bộ – Tinh Hoa Sức Sống**  
+**Sâm Chạy Bộ – TINH HOA SỨC SỐNG**  
 Nâng tầm sức khỏe với nhân sâm cao cấp, kết tinh từ thiên nhiên và khoa học.
