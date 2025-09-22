@@ -7,7 +7,8 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Tăng Cường Năng Lượng",
-      description: "Cung cấp năng lượng bền vững, giúp duy trì hiệu suất trong các hoạt động chạy bộ và thể thao cường độ cao."
+      description:
+        "Tiếp sức bền vững, giúp cơ thể luôn tràn đầy năng lượng để bứt phá trong thể thao và cuộc sống.",
     },
     {
       icon: (
@@ -16,7 +17,8 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Hỗ Trợ Sức Bền",
-      description: "Tăng cường khả năng chịu đựng, giảm mệt mỏi trong các bài tập cường độ cao và hoạt động kéo dài."
+      description:
+        "Tăng sức chịu đựng, giảm mệt mỏi trong các bài tập cường độ cao hay vận động kéo dài",
     },
     {
       icon: (
@@ -25,7 +27,8 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Phục Hồi Nhanh Chóng",
-      description: "Giúp cơ thể phục hồi sau vận động, giảm đau nhức cơ bắp và rút ngắn thời gian nghỉ ngơi."
+      description:
+        "Xoa dịu đau nhức, rút ngắn thời gian hồi phục cơ bắp, sẵn sàng quay lại tập luyện.",
     },
     {
       icon: (
@@ -34,7 +37,8 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Cân Bằng Cơ Thể",
-      description: "Hỗ trợ hệ miễn dịch, điều hòa huyết áp và cải thiện sức khỏe tổng thể một cách tự nhiên."
+      description:
+        "Củng cố hệ miễn dịch, ổn định huyết áp và nâng cao sức khỏe toàn diện.",
     },
     {
       icon: (
@@ -43,7 +47,8 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Tăng Tập Trung",
-      description: "Cải thiện sự tỉnh táo và tập trung tinh thần trong các hoạt động hàng ngày và công việc."
+      description:
+        "Giữ tinh thần tỉnh táo, tăng khả năng tập trung để học tập, làm việc và luyện tập hiệu quả.",
     },
     {
       icon: (
@@ -52,8 +57,9 @@ const BenefitsSection = () => {
         </svg>
       ),
       title: "Tự Nhiên & An Toàn",
-      description: "100% chiết xuất tự nhiên, không tác dụng phụ, không chất bảo quản, phù hợp cho mọi đối tượng."
-    }
+      description:
+        "Chiết xuất hoàn toàn từ thảo dược thiên nhiên, không chất bảo quản – an toàn cho mọi đối tượng.",
+    },
   ];
 
   return (
@@ -62,8 +68,19 @@ const BenefitsSection = () => {
       <div className="absolute inset-0 opacity-10">
         <svg className="w-full h-full" viewBox="0 0 100 100">
           <defs>
-            <pattern id="leaf-pattern" x="0" y="0" width="40" height="40" patternUnits="userSpaceOnUse">
-              <path d="M20 10C15 15 15 25 20 30C25 25 25 15 20 10Z" fill="currentColor" className="text-gold" />
+            <pattern
+              id="leaf-pattern"
+              x="0"
+              y="0"
+              width="40"
+              height="40"
+              patternUnits="userSpaceOnUse"
+            >
+              <path
+                d="M20 10C15 15 15 25 20 30C25 25 25 15 20 10Z"
+                fill="currentColor"
+                className="text-gold"
+              />
             </pattern>
           </defs>
           <rect width="100%" height="100%" fill="url(#leaf-pattern)" />
@@ -80,9 +97,11 @@ const BenefitsSection = () => {
 
         <div className="grid lg:grid-cols-2 gap-8 max-w-6xl mx-auto">
           {benefits.map((benefit, index) => (
-            <div 
+            <div
               key={index}
-              className={`card-premium group hover:bg-ivory/20 animate-fade-up animate-delay-${(index + 1) * 100}`}
+              className={`card-premium group hover:bg-ivory/20 animate-fade-up animate-delay-${
+                (index + 1) * 100
+              }`}
             >
               <div className="flex items-start space-x-6">
                 <div className="flex-shrink-0">
