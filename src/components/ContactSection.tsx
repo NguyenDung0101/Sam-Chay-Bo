@@ -82,7 +82,7 @@ const ContactSection = () => {
           <div className="animate-fade-up animate-delay-200">
             <div className="bg-ivory/10 backdrop-blur-sm rounded-3xl p-8 border border-emerald/20">
               <h3 className="font-cinzel text-2xl font-semibold text-ivory mb-6">
-                Gửi Tin Nhắn
+                GỬI TIN NHẮN
               </h3>
 
               <form onSubmit={handleSubmit} className="space-y-6">
@@ -154,7 +154,7 @@ const ContactSection = () => {
               {/* Contact Details */}
               <div className="bg-ivory/10 backdrop-blur-sm rounded-3xl p-8 border border-emerald/20">
                 <h3 className="font-cinzel text-2xl font-semibold text-ivory mb-8">
-                  Thông Tin Liên Hệ
+                  THÔNG TIN LIÊN HỆ
                 </h3>
 
                 <div className="space-y-6">
@@ -223,7 +223,7 @@ const ContactSection = () => {
               {/* Social Media */}
               <div className="bg-ivory/10 backdrop-blur-sm rounded-3xl p-8 border border-emerald/20">
                 <h3 className="font-cinzel text-2xl font-semibold text-ivory mb-6">
-                  Theo Dõi Chúng Tôi
+                  THEO DÕI CHÚNG TÔI
                 </h3>
 
                 <div className="flex space-x-4">

@@ -54,7 +54,7 @@ const Footer = () => {
           <div className="space-y-6 animate-fade-up">
             <div>
               <h3 className="font-cinzel text-2xl font-bold text-ivory mb-2">
-                Sâm Chạy Bộ
+                SÂM CHẠY BỘ
               </h3>
               <p className="font-montserrat italic text-secondary text-lg">
                 Tinh Hoa Sức Sống
@@ -109,7 +109,7 @@ const Footer = () => {
           {/* Quick Links */}
           <div className="space-y-6 animate-fade-up animate-delay-100">
             <h4 className="font-cinzel text-xl font-semibold text-ivory">
-              Liên Kết Nhanh
+              LIÊN KẾT NHANH
             </h4>
             <nav className="space-y-3">
               <button
@@ -148,7 +148,7 @@ const Footer = () => {
           {/* Customer Service */}
           <div className="space-y-6 animate-fade-up animate-delay-200">
             <h4 className="font-cinzel text-xl font-semibold text-ivory">
-              Hỗ Trợ Khách Hàng
+              HỖ TRỢ KHÁCH HÀNG
             </h4>
             <div className="space-y-4">
               <div className="flex items-center space-x-3">
@@ -197,7 +197,7 @@ const Footer = () => {
           {/* Newsletter */}
           <div className="space-y-6 animate-fade-up animate-delay-300">
             <h4 className="font-cinzel text-xl font-semibold text-ivory">
-              Đăng Ký Nhận Tin
+              ĐĂNG KÝ NHẬN TIN
             </h4>
             <p className="font-montserrat text-ivory/80 text-sm">
               Nhận thông tin mới nhất về sản phẩm và chương trình khuyến mãi
